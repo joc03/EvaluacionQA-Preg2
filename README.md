@@ -3,6 +3,7 @@
 ## Authors
  *Jose Ramirez*
 
+
 # Instrucciones para ejecutar
 
  *Ingresar al aplicativo Postman
@@ -14,5 +15,5 @@
  *seleccionar una de las dos apis dentro de la carpeta PruebaQA/DemoBlaze
  *hacer clic en Send
 
-
+## LAS EVIDENCIAS ESTAN EN LA CARPETA EVIDENCIA
 
